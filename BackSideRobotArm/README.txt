@@ -1,0 +1,1 @@
+main.py works the robot arm trajectory
