@@ -1,1 +1,1 @@
-main.py works the robot arm trajectory
+main.py works the both robot arms trajectory
