@@ -1,1 +1,1 @@
-The code which works the CoppeliaSim and PLC communication in api folder and "Python_CoppeliaSim_Communication_PLC.py" code file
+The code which works the CoppeliaSim and PLC communication in api folder is "Python_CoppeliaSim_Communication_PLC.py" code file
